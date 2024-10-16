@@ -13,7 +13,7 @@ This Python project is designed to deliver actionable insights for hotel booking
 - [Use Case](https://github.com/teejay-tems/Hotel_Booking#use-case)
 - [Skills/Concepts Demonstrated](https://github.com/teejay-tems/Hotel_Booking#skills-concepts-demonstrated)
 - [Data Source](https://github.com/teejay-tems/Hotel_Booking#data-source)
-- [License]
+- [License](https://github.com/teejay-tems/Hotel_Booking/blob/main/LICENSE)
 
 ## Project Overview
 The objective of this analysis is to offer practical insights into hotel bookings to minimize cancellations, optimize room occupancy and revenue generation. 
