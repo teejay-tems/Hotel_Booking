@@ -13,6 +13,7 @@ This Python project is designed to deliver actionable insights for hotel booking
 - [Use Case](https://github.com/teejay-tems/Hotel_Booking#use-case)
 - [Skills/Concepts Demonstrated](https://github.com/teejay-tems/Hotel_Booking#skills-concepts-demonstrated)
 - [Data Source](https://github.com/teejay-tems/Hotel_Booking#data-source)
+- [Recommendation](
 - [License](https://github.com/teejay-tems/Hotel_Booking/blob/main/LICENSE)
 
 ## Project Overview
@@ -89,3 +90,9 @@ The project utilizes a dataset containing information on hotels and accommodatio
 - email: Email (Not Real)
 - phone number: Phone number (not real)
 - credit card: Credit Card Number (not Real)
+
+## Recommendation
+- January sees a peak in cancellations, so hotels should launch marketing campaigns with special offers to boost revenue during this time.
+- Higher prices are linked to increased cancellation rates. To reduce cancellations, hotels could adjust their pricing strategies by offering lower rates for certain locations and providing customer discounts.
+- Resort hotels face more cancellations than city hotels. To address this, they could offer competitive room discounts on weekends and holidays to attract more bookings.
+- Improving the quality of hotels and services, especially in Portugal, could help reduce cancellations and enhance customer satisfaction.
